@@ -1,0 +1,75 @@
+.tomboltambah{
+    background-color: white;
+    border-radius: 10px;
+    width: 200px;
+    height: 50px;
+    color: black;
+    border: 1px solid black;
+    box-shadow: 5px 10px 18px #dbdbdb;
+    
+}
+
+.row{
+    display : flex;
+    padding-top : 20px;
+  }
+
+  .sidebardashboard{
+    padding: 40px;
+    width: 225;
+    height: 784;
+    background-color: white;
+    border-radius:25px;
+    box-shadow: 5px 10px 18px #dbdbdb;
+  }
+
+  .column{
+    flex : 50%;
+    height: 300px;
+  }
+  
+
+  input[type=submit]{
+    width: 50.5%;
+    background-color: #333333;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Poppins;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-family: Poppins;
+  }
+
+  input[type=password], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-family: Poppins;
+  }
+  input[type=email], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-family: Poppins;
+  }
+
